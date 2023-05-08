@@ -217,6 +217,7 @@ body {
 	flex-wrap: wrap;
 	margin-top: 5rem;
 	justify-content: center;
+	gap: 3rem;
 }
 
 .menu .row .menu-card {
@@ -226,7 +227,9 @@ body {
 
 .menu .row .menu-card img {
 	border-radius: 50%;
-	width: 80%;
+	height: 300px;
+	width: 300px;
+	margin-bottom: 2rem;
 }
 
 .menu .row .menu-card .menu-card-title {
